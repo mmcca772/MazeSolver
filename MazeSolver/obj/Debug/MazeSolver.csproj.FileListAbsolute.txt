@@ -1,0 +1,6 @@
+C:\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe.config
+C:\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.exe
+C:\Projects\MazeSolver\MazeSolver\bin\Debug\MazeSolver.pdb
+C:\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.exe
+C:\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.pdb
+C:\Projects\MazeSolver\MazeSolver\obj\Debug\MazeSolver.csprojResolveAssemblyReference.cache

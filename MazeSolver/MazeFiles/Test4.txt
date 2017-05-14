@@ -1,0 +1,22 @@
+XXXXXXX
+XS    X
+XXX X X
+XE  X X
+XXXXXXX
+
+MapSolver Solution:
+
+XXXXXXX
+XS..  X
+XXX.X X
+X...X X
+XXXXXXX
+
+
+MapSolver Solution:
+
+XXXXXXX
+XS..  X
+XXX.X X
+XE..X X
+XXXXXXX
